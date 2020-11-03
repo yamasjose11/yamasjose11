@@ -1,6 +1,6 @@
 ## Hello World I am Yamas - Welcome to my GitHub Profile !
 
-<p align="right"> <img src="https://github.com/yamasjose11/JoseDYamas/blob/main/img-yamas.png"></p>
+<p align="right"> <img src="https://github.com/yamasjose11/yamasjose11/blob/main/img-yamas.png"></p>
   
 <!-- LinkedIn Contact -->
 <p align="center">
