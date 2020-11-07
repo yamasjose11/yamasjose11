@@ -24,4 +24,4 @@
 <p align="center">
   <a
     [![Yamas's github stats](https://github-readme-stats.vercel.app/api?username=yamasjose11)]        (https://github.com/yamasjose11/github-readme-stats)
-  </a>
+ </a>
