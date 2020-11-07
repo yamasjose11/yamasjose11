@@ -20,7 +20,11 @@
 
 <!-- Working Projects -->
 
+
 <!-- Tech Stack Tools -->
 
-[![Yamas's github stats](https://github-readme-stats.vercel.app/api?username=yamasjose11)]()
 
+<!-- Github Stats... idk  -->
+[![Yamas's github stats](https://github-readme-stats.vercel.app/api?username=yamasjose11)]()
+<!-- Github Languages... idk  -->
+[![Yamas's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamasjose11&layout=compact)]()
