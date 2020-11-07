@@ -13,7 +13,7 @@
 
 <a href="https://www.facebook.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/facebook.png"></a>&nbsp;&nbsp;
 
-<a href="https://www.spotify.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.spotify.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/spotify.png"></a>&nbsp;&nbsp;
 
 <a href="mailto:yamasjose11@gmail.com"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/private-message.png"></a>&nbsp;&nbsp;
   
