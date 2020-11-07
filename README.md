@@ -1,7 +1,7 @@
 ## Hello World I am Yamas - Welcome to my GitHub Profile !
 
 <!-- Title Image -->
-
+<p align="right"> <img src="https://github.com/yamasjose11/yamasjose11/blob/main/DS%20github%20Yamas.png"></p>
   
 <!-- LinkedIn Contact -->
 
