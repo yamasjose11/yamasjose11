@@ -24,10 +24,7 @@
 <!-- Tech Stack Tools -->
 
 
-<!-- Github Stats/Lang... idk  -->
-<p float="left">
-  
+<!-- Github Stats... idk  -->
+<p float="center">
   [![Yamas's github stats](https://github-readme-stats.vercel.app/api?username=yamasjose11)]()
-  [![Yamas's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamasjose11&exclude_repo=github-readme-stats,yamasjose11.github.io)]()
-  
 </p>
