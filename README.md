@@ -7,7 +7,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
   
-<a href="https://www.twitter.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/twitter.png"></a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/in/jose-yamas/"><img height="30" src="https://github.com/yamasjose11/yamasjose11/blob/main/images/instagram-logo.png"></a>&nbsp;&nbsp;
 
