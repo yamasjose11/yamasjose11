@@ -6,7 +6,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/jose-yamas/"><img height="30" src="src="https://www.flaticon.com/svg/static/icons/svg/1384/1384088.svg""> 
   
-</a>&nbsp;&nbsp
+</a>
 </p>
 
   
