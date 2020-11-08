@@ -1,4 +1,4 @@
-## Hello World I am Yamas - Welcome to my GitHub Profile !
+## Hello World I am Yamas !
 
 <!-- Title Image -->
 <p align="right"> <img src="https://github.com/yamasjose11/yamasjose11/blob/main/images/DS%20github%20Yamas.png"></p>
