@@ -22,8 +22,3 @@
 
 
 <!-- Github Stats... idk  -->
-[//]: <> (<p align="center">)
-  
-[//]: <> (  [![Yamas's github stats](https://github-readme-stats.vercel.app/api?username=yamasjose11)]())
-  
-[//]: <> (</p>)
