@@ -1,0 +1,12 @@
+{
+  "user": "yamasjose11",
+  "building": "Platform sync",
+  "next": "Unified data platform",
+  "shipping": "Operations modules",
+  "milestones": [
+    {
+      "label": "System cutover",
+      "date": "2027-02-08"
+    }
+  ]
+}
