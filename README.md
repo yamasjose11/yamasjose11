@@ -17,13 +17,17 @@ refreshed   2026-11-19 21:10 UTC
 ```
 <!--NOW:END-->
 
-### Selected work
+### Accomplished work
 
-| | Project | What it is | Signal |
+| | Project | What it does | Status |
 |:-:|---|---|---|
-| **01** | **Vendor platform** | Multi-tenant marketplace where outside firms and in-house teams compete to fill live demand. | Tenant isolation in the data layer |
-| **02** | **Operations platform** | One system that retired shared spreadsheets, forms and email chains. | Company-wide adoption |
-| **03** | **Data platform** | Read-only feeds from every business system into one source of truth. | 190× faster records audit |
+| **01** | **Operations platform** | One system that retired shared spreadsheets, forms and email chains. | Live |
+| **02** | **Eligibility engine** | Reads the documents, a fixed rulebook decides, every verdict is logged. | Live |
+| **03** | **Vendor platform** | Multi-tenant marketplace where outside firms and in-house teams compete to fill live demand. | Live · testing |
+| **04** | **Workforce platform** | Tracks every worker after they start: where they are, what is cleared, what is approved. | Live · testing |
+| **05** | **Records audit** | 3,641 records checked at 160 ms each instead of 30 s, zero errors. | Complete |
+| **06** | **Data platform** | Read-only feeds from every business system into one source of truth. | Building · near launch |
+| **07** | **Market intelligence** | Turns an event, a company or a lead into a ready campaign list. | In development |
 
 ### Victories
 
