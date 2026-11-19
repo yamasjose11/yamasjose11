@@ -1,0 +1,46 @@
+name: refresh-now
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # daily, 5:17 AM Central (CST)
+  workflow_dispatch:
+  push:
+    paths:
+      - now.json
+      - scripts/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-now
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild assets and Now block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/build_assets.py
+          python scripts/update_now.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: refresh now block"
+          git push
