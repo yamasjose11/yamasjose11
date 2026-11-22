@@ -12,8 +12,8 @@ $ agent status
 building    Platform sync
 shipping    Operations modules
 next        Unified data platform
-countdown   System cutover in 79 days
-refreshed   2026-11-21 17:58 UTC
+countdown   System cutover in 78 days
+refreshed   2026-11-22 18:32 UTC
 ```
 <!--NOW:END-->
 
